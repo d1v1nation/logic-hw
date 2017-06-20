@@ -27,7 +27,7 @@ Alternatively, `ghc Main.hs -O2` - see Build dependencies for details
 * `Main t in.txt | Main a | grep "Не"` -- get from in, transform, annotate, filter unproven
 
 
-## Task 3 : (a+1)*(a+1)=a*a+2*a+1
+## Task 3 : (a+1)\*(a+1)=a\*a+2\*a+1
 
 ### Invocation
 * `Main [input=stdin] [output=stdout]`
